@@ -33,7 +33,6 @@ This is because a credit history likely provides a proven track record of financ
 * Applicants who were married and had 3+ dependents applied for much higher loans than those who were married or unmarried with less than 3 children.
 
 ## Process
-(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
 1. Hypothesis Generation
 2. Data Exploration (EDA, Statistics, Pivot Tables)
 3. Data Cleaning (Imputing missing values, handling outliers/extreme values, renaming columns)
